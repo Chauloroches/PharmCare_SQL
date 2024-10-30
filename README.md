@@ -61,15 +61,16 @@ Use the SQL queries provided in the project files or the examples in this README
                 Basic knowledge of loading CSV files into a database (using LOAD DATA INFILE or a similar command).
 ## Project Structure
 PharmCare_SQL_Project/
-├── README.md                 # Project overview and instructions
 
-├── Medications.csv           # Medication data
+├── README.md
 
-├── Patients.csv              # Patient data
+├── Medications.csv
 
-├── Prescriptions.csv         # Prescription data
+├── Patients.csv
 
-└── Queries.sql               # Collection of SQL queries for analysis
+├── Prescriptions.csv
+
+└── Queries.sql
 
 ## Future Improvements
 Integrate more advanced analysis, such as joining with insurance or billing data.
