@@ -62,9 +62,13 @@ Use the SQL queries provided in the project files or the examples in this README
 ## Project Structure
 PharmCare_SQL_Project/
 ├── README.md                 # Project overview and instructions
+
 ├── Medications.csv           # Medication data
+
 ├── Patients.csv              # Patient data
+
 ├── Prescriptions.csv         # Prescription data
+
 └── Queries.sql               # Collection of SQL queries for analysis
 
 ## Future Improvements
